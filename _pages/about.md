@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "https://saadmaliikk.github.io/"
-excerpt: "My name is Muhammad Saad Hanif. I am a cyber security student at Air University. saaad"
+title: "My name is Muhammad Saad Hanif. I am a cyber security student at Air University."
+excerpt: ".."
 author_profile: true
 redirect_from: 
   - /about/
